@@ -1,7 +1,7 @@
 # react-radiobox
 RadioBox component for ReactJS
 
-This is simple React radio box component that can be used instead of creating radio boxes manually. 
+This is simple React radio box component that can be used instead manually creating HTML radio box form inputs. 
 
 ##Exampe:
 
