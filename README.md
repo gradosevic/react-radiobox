@@ -8,7 +8,7 @@ This is simple React radio box component that can be used instead of manually cr
 ```javascript
 <RadioBox
     selected={'second'}
-    className={'additional-class'}
+    class={'custom-class'}
     group={'ordinal-numbers'}
     onChange={this.onChangeHanlder}
     items={{
@@ -21,7 +21,7 @@ This is simple React radio box component that can be used instead of manually cr
 
 ##Html output:
 ```html
-<table>
+<table class="radiobox-group custom-class">
     <tbody>
         <tr>
             <td><input type="radio" id="ordinal-numbers_1" group="ordinal-numbers" name="ordinal-numbers" value="1" /></td>
