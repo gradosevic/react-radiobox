@@ -6,7 +6,7 @@ const RadioBox = React.createClass({
     },
     render(){
         const items = this.props.items;
-        const keys = items;
+        var keys = items;
         if (typeof items === 'object') {
             keys = Object.keys(items).map(
                 function (key) {
