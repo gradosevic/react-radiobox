@@ -40,4 +40,4 @@ This is simple React radio box component that can be used instead of manually cr
 ```
 
 ##Demo
-[JSFiddle demo](https://jsfiddle.net/qcqnbnq6/)
+[JSFiddle demo](https://jsfiddle.net/gradosevic/j029uqjr/)
