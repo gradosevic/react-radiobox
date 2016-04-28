@@ -14,7 +14,7 @@ const RadioBox = React.createClass({
                 });
         }
         return (
-            <table>
+            <table className={'radiobox-group ' + this.props.class}>
                 <tbody>
                 {keys.map(this.displayItem)}
                 </tbody>
