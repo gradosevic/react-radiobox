@@ -7,7 +7,7 @@ This is simple React radio box component that can be used instead of manually cr
 
 ```javascript
 <RadioBox
-    selected={'second'}
+    selected={'2'}
     class={'custom-class'}
     group={'ordinal-numbers'}
     onChange={this.onChangeHanlder}
