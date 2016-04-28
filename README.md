@@ -38,3 +38,6 @@ This is simple React radio box component that can be used instead of manually cr
     </tbody>
 </table>
 ```
+
+##Demo
+[JSFiddle demo](https://jsfiddle.net/qcqnbnq6/)
